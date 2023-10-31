@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:TwiApp="clr-namespace:TwiApp.Views.Alphabet.W"
+             x:Class="TwiApp.Views.Alphabet.W.LetterWContentPage"
+             NavigationPage.HasNavigationBar="False"
+             x:Name="ThisPage"
+             BackgroundColor="#FAFBFF">
+
+    <StackLayout Orientation="Horizontal">
+
+        <TwiApp:LetterWContentView
+            BindingContext="{Binding CurrentContent}"
+            x:Name="ContentView" 
+            PreviousClicked="ContentItemView_PreviousClicked"
+            NextClicked="ContentItemView_NextClicked" />
+
+    </StackLayout>
+</ContentPage>

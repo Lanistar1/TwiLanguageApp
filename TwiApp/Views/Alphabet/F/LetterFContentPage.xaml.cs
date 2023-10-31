@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TwiApp.ViewModels.F;
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace TwiApp.Views.Alphabet.F
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class LetterFContentPage : ContentPage
+    {
+        public LetterFContentPage()
+        {
+            InitializeComponent();
+            BindingContext = new LetterFViewModel();
+
+        }
+
+        private void ContentItemView_PreviousClicked(object sender, EventArgs e)
+        {
+            if (BindingContext is LetterFViewModel viewModel)
+            {
+                viewModel.NavigatePrevious();
+            }
+        }
+
+        private void ContentItemView_NextClicked(object sender, EventArgs e)
+        {
+            if (BindingContext is LetterFViewModel viewModel)
+            {
+                viewModel.NavigateNext();
+            }
+        }
+    }
+}

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TwiApp.Views.Alphabet.LetterA"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#FAFBFF">
+
+    <!--BackgroundImageSource="Homebg.png"-->
+    
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Image Source="topA.png" WidthRequest="100" HeightRequest="100"/>
+        </Grid>
+
+        <CollectionView x:Name="cvBanners" ItemsSource="{Binding ContentList}" Margin="0,20" Grid.Row="1">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout VerticalItemSpacing="10" HorizontalItemSpacing="10" Orientation="Vertical" Span="3"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="10" CornerRadius="10" HasShadow="False" BackgroundColor="#EFF1F8">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="To_LetterAContentPage"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout >
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="To_LetterAContentPage"/>
+                            </StackLayout.GestureRecognizers>
+                            <Image Source="{Binding Image}" WidthRequest="100" HeightRequest="100" HorizontalOptions="StartAndExpand"/>
+                            <Label Text="{Binding EnglishName}" TextColor="#272728" FontSize="14" Margin="0,0,0,0" FontFamily="DMSans-Regular" HorizontalTextAlignment="Center"/>
+                            
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+
+        <!--<Frame BackgroundColor="{StaticResource TertiaryColor}" CornerRadius="20" Padding="5,5,10,15" Grid.Row="1" Margin="0,20">
+            <StackLayout >
+                <ImageButton BackgroundColor="Transparent" Clicked="Back" Source="cancel.png" WidthRequest="35" HeightRequest="35" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand"/>
+                <Grid VerticalOptions="StartAndExpand" Margin="0,0,0,0">
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0" Margin="10,5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackLayout Grid.Column="0" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_letterAFirst" Source="rat2.png"  WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Family" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="1" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_spider" Source="spider2.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Fruits" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="2" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_rabbit" Source="rabbit2.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Animals" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                    </Grid>
+                    <Grid Grid.Row="1" Margin="10,0,10,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackLayout Grid.Column="0" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_hen" Source="hen.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Human" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="1" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_chair" Source="share.png" WidthRequest="70" HeightRequest="70" />
+                            --><!--<Label Text="Days" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="2" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_pine" Source="pineapple.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Colors" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                    </Grid>
+                    <Grid Grid.Row="2" Margin="10,0,10,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackLayout Grid.Column="0" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_frog" Source="frog.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Greetings" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="1" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_mango" Source="orange.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Numbers" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="2" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_butterfly" Source="butterfly.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Introduction" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                    </Grid>
+                    <Grid Grid.Row="3" Margin="10,0,10,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackLayout Grid.Column="0" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_bird" Source="parrot.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Pronouns" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="1" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_monkey" Source="monkey.png" WidthRequest="70" HeightRequest="70"/>
+                            --><!--<Label Text="Human Body" TextColor="#ffffff" FontSize="16" HorizontalTextAlignment="Center" Margin="0,0,0,0"/>--><!--
+                        </StackLayout>
+                        <StackLayout Grid.Column="2" Margin="5" Spacing="0">
+                            <ImageButton BackgroundColor="Transparent" Clicked="To_mouth" Source="mouth.png" WidthRequest="70" HeightRequest="70"/>
+                        </StackLayout>
+                    </Grid>
+                </Grid>
+            </StackLayout>
+        </Frame>-->
+    </Grid>
+
+</ContentPage>
