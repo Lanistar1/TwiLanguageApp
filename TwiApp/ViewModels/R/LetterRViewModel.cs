@@ -28,11 +28,11 @@ namespace TwiApp.ViewModels.R
             // Initialize your content list
             ContentList = new List<LetterAModel>
             {
-                new LetterAModel { EnglishName = "Boss", Image = "boss.png", Mp3Path = "mouseplay.mp3", TWIName = "Adwumawura", TwiMp3Path = ""},
-                new LetterAModel { EnglishName = "Broom", Image = "broom.png", Mp3Path = "spiderplay.mp3", TWIName = "praeɛ", TwiMp3Path = ""},
-                new LetterAModel { EnglishName = "Calendar", Image = "calendar.png", Mp3Path = "rabbitplay.mp3", TWIName = "Asranna", TwiMp3Path = ""},
-                new LetterAModel { EnglishName = "Call", Image = "call.png", Mp3Path = "birdplay.mp3", TWIName = "Frɛ", TwiMp3Path = ""},
-                new LetterAModel { EnglishName = "Cat", Image = "cat.png", Mp3Path = "butterflyplay.mp3", TWIName = "Ɔkra", TwiMp3Path = ""},
+                new LetterAModel { EnglishName = "Boss", Image = "boss.png", Mp3Path = "mouseplay.mp3", TWIName = "Adwumawura", TwiMp3Path = "mouseplay.mp3"},
+                new LetterAModel { EnglishName = "Broom", Image = "broom.png", Mp3Path = "spiderplay.mp3", TWIName = "praeɛ", TwiMp3Path = "mouseplay.mp3"},
+                new LetterAModel { EnglishName = "Calendar", Image = "calendar.png", Mp3Path = "rabbitplay.mp3", TWIName = "Asranna", TwiMp3Path = "mouseplay.mp3"},
+                new LetterAModel { EnglishName = "Call", Image = "call.png", Mp3Path = "birdplay.mp3", TWIName = "Frɛ", TwiMp3Path = "mouseplay.mp3"},
+                new LetterAModel { EnglishName = "Cat", Image = "cat.png", Mp3Path = "butterflyplay.mp3", TWIName = "Ɔkra", TwiMp3Path = "mouseplay.mp3"},
                 new LetterAModel { EnglishName = "Child", Image = "child.png", Mp3Path = "eyesplay.mp3", TWIName = "Abɔfra", TwiMp3Path = ""},
                 new LetterAModel { EnglishName = "Come", Image = "come.png", Mp3Path = "frogplay.mp3", TWIName = "Bra", TwiMp3Path = ""},
                 new LetterAModel { EnglishName = "Field", Image = "field.png", Mp3Path = "chickenplay.mp3", TWIName = "Agoprama so", TwiMp3Path = ""},
