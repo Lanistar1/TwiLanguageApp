@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TwiApp.Models.A;
 using TwiApp.ViewModels.A;
 using TwiApp.Views.Alphabet.A;
 using Xamarin.Forms;
@@ -20,7 +21,8 @@ namespace TwiApp.Views.Alphabet
         public LetterA()
         {
             InitializeComponent();
-            BindingContext = new LetterAViewModel();
+            //BindingContext = new LetterAViewModel();
+            BindingContext = LetterAViewModel.Instance;
 
         }
 
@@ -100,10 +102,19 @@ namespace TwiApp.Views.Alphabet
 
         }
 
+        //private void To_LetterAContentPage(object sender, EventArgs e)
+        //{
+        //    Navigation.PushAsync(new LetterAContentPage());
+
+        //}
+
         private void To_LetterAContentPage(object sender, EventArgs e)
         {
+            if (sender is View view && view.BindingContext is LetterAModel selectedModel)
+            {
+                LetterAViewModel.Instance.SelectedContent = selectedModel;
+            }
             Navigation.PushAsync(new LetterAContentPage());
-
         }
     }
 }

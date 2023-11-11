@@ -25,10 +25,15 @@ namespace TwiApp.Views.Alphabet.A
         public LetterAContentView()
         {
             InitializeComponent();
-            BindingContext = new LetterAViewModel();
+            //BindingContext = new LetterAViewModel();
 
             player = CrossSimpleAudioPlayer.CreateSimpleAudioPlayer();
 
+        }
+        public LetterAContentView(LetterAViewModel viewModel)
+        : this()
+        {
+            BindingContext = viewModel; // Set the BindingContext to the provided ViewModel
         }
 
         private void PlayButton_Clicked(object sender, EventArgs e)

@@ -10,16 +10,18 @@
     <StackLayout Orientation="Horizontal">
 
         <TwiApp:LetterAContentView
-            BindingContext="{Binding CurrentContent}"
+            BindingContext="{Binding SelectedContent}"
             x:Name="ContentView" 
             PreviousClicked="ContentItemView_PreviousClicked"
             NextClicked="ContentItemView_NextClicked" />
 
-        <!--<TwiApp:LetterAContentView
-            BindingContext="{Binding CurrentContent}"
-            x:Name="ContentView" 
-            Mp3Path="{Binding CurrentContent.Mp3Path}"
-            PreviousClicked="ContentItemView_PreviousClicked"
-            NextClicked="ContentItemView_NextClicked" />-->
     </StackLayout>
+
+    <!--<StackLayout Orientation="Horizontal">
+        <TestNewApp:TestView
+            BindingContext="{Binding SelectedContent}"
+            x:Name="ContentView"
+            PreviousClicked="ContentItemView_PreviousClicked"
+            NextClicked="ContentItemView_NextClicked" />
+    </StackLayout>-->
 </ContentPage>

@@ -1,14 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Linq;
 using System.Text;
 using TwiApp.Models.A;
+using TwiApp.ViewModels.A;
 
 namespace TwiApp.ViewModels.G
 {
-
     public class LetterGViewModel : INotifyPropertyChanged
     {
+        private static LetterGViewModel instance;
+        public static LetterGViewModel Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new LetterGViewModel();
+                }
+                return instance;
+            }
+        }
+
+
         private List<LetterAModel> contentList;
         public List<LetterAModel> ContentList
         {
@@ -20,6 +35,16 @@ namespace TwiApp.ViewModels.G
             }
         }
 
+        private LetterAModel selectedContent;
+        public LetterAModel SelectedContent
+        {
+            get => selectedContent;
+            set
+            {
+                selectedContent = value;
+                OnPropertyChanged(nameof(SelectedContent));
+            }
+        }
 
         private int currentIndex;
 
@@ -45,11 +70,9 @@ namespace TwiApp.ViewModels.G
                 new LetterAModel { EnglishName = "Torch", Image = "torch.png", Mp3Path = "pineplay.mp3", TWIName = "Gyatɛn", TwiMp3Path = ""},
             };
             currentIndex = 0;
-            //CurrentContent = contentList[currentIndex];
+            SelectedContent = ContentList.FirstOrDefault();
 
         }
-
-        public LetterAModel CurrentContent => contentList[currentIndex];
 
         public event PropertyChangedEventHandler PropertyChanged;
 
@@ -58,21 +81,21 @@ namespace TwiApp.ViewModels.G
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
-        public void NavigateNext()
+        public void NavigatePrevious()
         {
-            if (currentIndex < contentList.Count - 1)
+            int currentIndex = ContentList.IndexOf(SelectedContent);
+            if (currentIndex > 0)
             {
-                currentIndex++;
-                OnPropertyChanged(nameof(CurrentContent));
+                SelectedContent = ContentList[currentIndex - 1];
             }
         }
 
-        public void NavigatePrevious()
+        public void NavigateNext()
         {
-            if (currentIndex > 0)
+            int currentIndex = ContentList.IndexOf(SelectedContent);
+            if (currentIndex < ContentList.Count - 1)
             {
-                currentIndex--;
-                OnPropertyChanged(nameof(CurrentContent));
+                SelectedContent = ContentList[currentIndex + 1];
             }
         }
 

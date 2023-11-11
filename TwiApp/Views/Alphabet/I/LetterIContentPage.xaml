@@ -9,7 +9,7 @@
     <StackLayout Orientation="Horizontal">
 
         <TwiApp:LetterIContentView
-            BindingContext="{Binding CurrentContent}"
+            BindingContext="{Binding SelectedContent}"
             x:Name="ContentView" 
             PreviousClicked="ContentItemView_PreviousClicked"
             NextClicked="ContentItemView_NextClicked" />

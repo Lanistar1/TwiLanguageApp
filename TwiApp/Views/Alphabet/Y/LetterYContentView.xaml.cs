@@ -6,6 +6,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using TwiApp.Models.A;
+using TwiApp.ViewModels.A;
 using TwiApp.ViewModels.Y;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -23,9 +24,14 @@ namespace TwiApp.Views.Alphabet.Y
         public LetterYContentView()
         {
             InitializeComponent();
-            BindingContext = new LetterYViewModel();
+            //BindingContext = new LetterYViewModel();
 
             player = CrossSimpleAudioPlayer.CreateSimpleAudioPlayer();
+        }
+        public LetterYContentView(LetterYViewModel viewModel)
+        : this()
+        {
+            BindingContext = viewModel; // Set the BindingContext to the provided ViewModel
         }
 
         private void PlayButton_Clicked(object sender, EventArgs e)

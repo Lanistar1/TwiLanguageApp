@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TwiApp.ViewModels.A;
 using TwiApp.ViewModels.B;
 using TwiApp.ViewModels.P;
 using Xamarin.Forms;
@@ -16,23 +17,18 @@ namespace TwiApp.Views.Alphabet.P
         public LetterPContentPage()
         {
             InitializeComponent();
-            BindingContext = new LetterPViewModel();
+            //BindingContext = new LetterPViewModel();
+            BindingContext = LetterPViewModel.Instance;
 
         }
         private void ContentItemView_PreviousClicked(object sender, EventArgs e)
         {
-            if (BindingContext is LetterPViewModel viewModel)
-            {
-                viewModel.NavigatePrevious();
-            }
+            LetterPViewModel.Instance.NavigatePrevious();
         }
 
         private void ContentItemView_NextClicked(object sender, EventArgs e)
         {
-            if (BindingContext is LetterPViewModel viewModel)
-            {
-                viewModel.NavigateNext();
-            }
+            LetterPViewModel.Instance.NavigateNext();
         }
     }
 }

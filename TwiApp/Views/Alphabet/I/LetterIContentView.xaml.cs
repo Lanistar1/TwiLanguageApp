@@ -6,6 +6,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using TwiApp.Models.A;
+using TwiApp.ViewModels.A;
 using TwiApp.ViewModels.I;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -24,9 +25,14 @@ namespace TwiApp.Views.Alphabet.I
         public LetterIContentView()
         {
             InitializeComponent();
-            BindingContext = new LetterIViewModel();
+            //BindingContext = new LetterIViewModel();
 
             player = CrossSimpleAudioPlayer.CreateSimpleAudioPlayer();
+        }
+        public LetterIContentView(LetterIViewModel viewModel)
+        : this()
+        {
+            BindingContext = viewModel; // Set the BindingContext to the provided ViewModel
         }
 
         private void PlayButton_Clicked(object sender, EventArgs e)

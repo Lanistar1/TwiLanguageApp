@@ -15,24 +15,19 @@ namespace TwiApp.Views.Alphabet.A
         public LetterAContentPage()
         {
             InitializeComponent();
-            BindingContext = new LetterAViewModel();
+            //BindingContext = new LetterAViewModel();
+            BindingContext = LetterAViewModel.Instance;
 
         }
 
         private void ContentItemView_PreviousClicked(object sender, EventArgs e)
         {
-            if (BindingContext is LetterAViewModel viewModel)
-            {
-                viewModel.NavigatePrevious();
-            }
+            LetterAViewModel.Instance.NavigatePrevious();
         }
 
         private void ContentItemView_NextClicked(object sender, EventArgs e)
         {
-            if (BindingContext is LetterAViewModel viewModel)
-            {
-                viewModel.NavigateNext();
-            }
+            LetterAViewModel.Instance.NavigateNext();
         }
     }
 }
