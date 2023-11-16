@@ -16,5 +16,19 @@ namespace TwiApp.Views.Home
         {
             InitializeComponent();
         }
+
+        private async void To_Visit(object sender, EventArgs e)
+        {
+            string url = "www.Ankobra.com";
+
+            await Navigation.PushAsync(new WebviewPage(url));
+        }
+
+        private async void To_Getintouch(object sender, EventArgs e)
+        {
+            string url = "info@ankobra.com";
+
+            await Navigation.PushAsync(new WebviewPage(url));
+        }
     }
 }

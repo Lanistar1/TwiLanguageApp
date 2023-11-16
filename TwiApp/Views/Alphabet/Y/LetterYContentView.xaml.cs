@@ -55,6 +55,26 @@ namespace TwiApp.Views.Alphabet.Y
             }
         }
 
+        private void PlayTwiButton_Clicked(object sender, EventArgs e)
+        {
+            if (!isPlaying)
+            {
+                string mp3Path = (BindingContext as LetterAModel)?.TwiMp3Path;
+                if (!string.IsNullOrEmpty(mp3Path))
+                {
+                    player.Load(mp3Path);
+                    player.Play();
+                    isPlaying = true;
+                    isPlaying = false;
+
+                }
+            }
+            else
+            {
+                player.Pause();
+                isPlaying = false;
+            }
+        }
         private void NextButton_Clicked(object sender, EventArgs e)
         {
             NextClicked?.Invoke(this, EventArgs.Empty);

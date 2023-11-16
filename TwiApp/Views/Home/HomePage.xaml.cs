@@ -10,6 +10,7 @@ using TwiApp.Views.Alphabet.B;
 using TwiApp.Views.Alphabet.C;
 using TwiApp.Views.Alphabet.D;
 using TwiApp.Views.Alphabet.E;
+using TwiApp.Views.Alphabet.E2;
 using TwiApp.Views.Alphabet.F;
 using TwiApp.Views.Alphabet.G;
 using TwiApp.Views.Alphabet.H;
@@ -515,6 +516,28 @@ namespace TwiApp.Views.Home
 
             await Task.Delay(500);
             await Navigation.PushAsync(new LetterY());
+        }
+
+        private async void To_letterE2(object sender, EventArgs e)
+        {
+            string mp3Path = "E2twi.mp3";
+            player.Load(mp3Path);
+
+            if (player != null)
+            {
+                if (player.IsPlaying)
+                {
+
+                    player.Pause();
+                }
+                else
+                {
+                    player.Play();
+                }
+            }
+
+            await Task.Delay(500);
+            await Navigation.PushAsync(new LetterE2());
         }
     }
 }

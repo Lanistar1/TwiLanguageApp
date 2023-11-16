@@ -2,8 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TwiApp.Views.Alphabet.S.LetterS"
-             NavigationPage.HasNavigationBar="False"
-             BackgroundColor="#FAFBFF">
+             NavigationPage.HasNavigationBar="True"
+             BackgroundColor="#FAFBFF"
+             Title="Letter S">
 
 
     <Grid Margin="20">
@@ -13,7 +14,7 @@
         </Grid.RowDefinitions>
 
         <Grid Grid.Row="0">
-            <Image Source="topS.png" WidthRequest="100" HeightRequest="100"/>
+            <!--<Image Source="topS.png" WidthRequest="100" HeightRequest="100"/>-->
         </Grid>
 
         <CollectionView x:Name="cvBanners" ItemsSource="{Binding ContentList}" Margin="0,20" Grid.Row="1">

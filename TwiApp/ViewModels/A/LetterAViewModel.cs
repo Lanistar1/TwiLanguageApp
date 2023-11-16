@@ -71,14 +71,14 @@ namespace TwiApp.ViewModels.A
                 new LetterAModel { EnglishName = "Pineapple", Image = "pine.png", Mp3Path = "PINEAPPLE.mp3", TWIName = "Abrɔbɛ", TwiMp3Path = "ABR)B3.mp3"},
                 new LetterAModel { EnglishName = "Chair", Image = "chair.png", Mp3Path = "CHAIR.mp3", TWIName = "Akonnwa", TwiMp3Path = "AKONNWA.mp3"},
                 new LetterAModel { EnglishName = "Orange", Image = "orange2.png", Mp3Path = "ORANGE.mp3", TWIName = "Ankaa", TwiMp3Path = "ANKAA.mp3"},
-                new LetterAModel { EnglishName = "Scissor", Image = "scissor2.png", Mp3Path = "SCISSORS.mp3", TWIName = "APASO)", TwiMp3Path = "APASO).mp3"},
+                new LetterAModel { EnglishName = "Scissors", Image = "scissor2.png", Mp3Path = "SCISSORS.mp3", TWIName = "Apasoᴐ", TwiMp3Path = "APASO).mp3"},
             };
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();
 
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
+        public event PropertyChangedEventHandler PropertyChanged; 
 
         protected virtual void OnPropertyChanged(string propertyName)
         {

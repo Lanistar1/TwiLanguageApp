@@ -2,13 +2,46 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TwiApp.Views.Home.AboutApp"
-             Title="About App"
-             BackgroundImageSource="Homebg.png">
-    <ContentPage.Content>
+             NavigationPage.HasNavigationBar="True"
+             BackgroundColor="#FAFBFF"
+             Title="About the app">
+
+    <ScrollView VerticalScrollBarVisibility="Never" Margin="20">
         <StackLayout>
-            <Label Text="About App" TextColor="#ffffff"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Welcome to the exceptional language learning app that bridges the gap between English and Twi, a native language of the country Ghana. This app is designed to bring a unique and interactive way of teaching how to pronounce some English words in Twi. " TextColor="#272728"
+                   FontSize="18" Margin="0,0,0,5"  />
+            <Label Text="The app is not just an ordinary language guide, it's an immersive language learning experience that provides auditory examples of pronunciation in both English and Twi. This feature is designed to enhance your understanding of the Twi language, and to perfect your pronunciation skills. " 
+                   TextColor="#272728" FontSize="18" Margin="0,0,0,5"  />
+            <Label Text="This app is suitable for anyone, regardless of age. Whether you're a child starting their language journey, an adult wanting to learn a new language, or someone who wants to refresh their knowledge of certain Twi words, our app will cater to your needs. " 
+                   TextColor="#272728" FontSize="18" Margin="0,0,0,5"  />
+            <Label Text="The app makes learning the basics of the Twi language easy and enjoyable. With a robust library of words, you'll have the opportunity to expand your vocabulary in both English and Twi." 
+                   TextColor="#272728" FontSize="18" Margin="0,0,0,5"  />
+
+            <Label HorizontalOptions="StartAndExpand" TextColor="#000000">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Get in touch via "  FontSize="15"/>
+                        <Span Text="info@ankobra.com" TextColor="#303093" FontSize="16" FontAttributes="Bold">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="To_Getintouch"/>
+                            </Span.GestureRecognizers>
+                        </Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+            <Label HorizontalOptions="StartAndExpand" TextColor="#000000">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Visit us on  " FontSize="15" />
+                        <Span Text="www.Ankobra.com" TextColor="#303093" FontSize="16" FontAttributes="Bold">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="To_Visit" />
+                            </Span.GestureRecognizers>
+                        </Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
         </StackLayout>
-    </ContentPage.Content>
+    </ScrollView>
 </ContentPage>
