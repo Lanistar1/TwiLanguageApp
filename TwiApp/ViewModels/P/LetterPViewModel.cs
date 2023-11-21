@@ -55,7 +55,7 @@ namespace TwiApp.ViewModels.P
             // Initialize your content list
             ContentList = new List<LetterAModel>
             {
-                new LetterAModel { EnglishName = "Avocadopear", Image = "avocadopear.png", Mp3Path = "PEAR.mp3", TWIName = "Paya", TwiMp3Path = "PAYA.mp3"},
+                new LetterAModel { EnglishName = "Avocado / Pear", Image = "avocadopear.png", Mp3Path = "PEAR.mp3", TWIName = "Paya", TwiMp3Path = "PAYA.mp3"},
                 new LetterAModel { EnglishName = "Bread", Image = "bread.png", Mp3Path = "bread.mp3", TWIName = "Paanoo", TwiMp3Path = "PAANOO.mp3"},
                 new LetterAModel { EnglishName = "Broom", Image = "broom.png", Mp3Path = "BROOM.mp3", TWIName = "Praeɛ", TwiMp3Path = "PRAE3.mp3"},
                 new LetterAModel { EnglishName = "Horse", Image = "horse.png", Mp3Path = "horse.mp3", TWIName = "Pɔnkɔ", TwiMp3Path = "P)NK).mp3"},
@@ -66,7 +66,7 @@ namespace TwiApp.ViewModels.P
                 new LetterAModel { EnglishName = "Octopus", Image = "octopus.png", Mp3Path = "OCTOPUS.mp3", TWIName = "Posena", TwiMp3Path = "POSENA.mp3"},
                 new LetterAModel { EnglishName = "Owl", Image = "owl.png", Mp3Path = "OWL.mp3", TWIName = "Patuo", TwiMp3Path = "PATUO.mp3"},
                 new LetterAModel { EnglishName = "Pig", Image = "pig.png", Mp3Path = "PIG.mp3", TWIName = "Prako", TwiMp3Path = "PRAKO.mp3"},
-                new LetterAModel { EnglishName = "Policeman", Image = "policeman.png", Mp3Path = "policeman.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
+                new LetterAModel { EnglishName = "Policeman", Image = "policeman.png", Mp3Path = "Policeman.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
                 new LetterAModel { EnglishName = "Sweep", Image = "sweep.png", Mp3Path = "SWEEP.mp3", TWIName = "Pra", TwiMp3Path = "PRA.mp3"},
                 new LetterAModel { EnglishName = "Table", Image = "table.png", Mp3Path = "TABLE.mp3", TWIName = "Pono", TwiMp3Path = "PONO.mp3"},
                 new LetterAModel { EnglishName = "Underpants", Image = "underpants.png", Mp3Path = "PANTS.mp3", TWIName = "Pioto", TwiMp3Path = "PIOTO.mp3"},

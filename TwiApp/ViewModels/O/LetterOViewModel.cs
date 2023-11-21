@@ -57,7 +57,7 @@ namespace TwiApp.ViewModels.O
             {
                 new LetterAModel { EnglishName = "African", Image = "african.png", Mp3Path = "AFRICAN.mp3", TWIName = "Obibini", TwiMp3Path = "OBIBINI.mp3"},
                 new LetterAModel { EnglishName = "Alligator", Image = "alligator.png", Mp3Path = "ALLIGATOR.mp3", TWIName = "Okyekye", TwiMp3Path = "OKYEKYE.mp3"},
-                new LetterAModel { EnglishName = "Boardgame", Image = "boardgame.png", Mp3Path = "BOARDGAME.mp3", TWIName = "Oware", TwiMp3Path = "OWARE.mp3"},
+                new LetterAModel { EnglishName = "Board game", Image = "boardgame.png", Mp3Path = "BOARDGAME.mp3", TWIName = "Oware", TwiMp3Path = "OWARE.mp3"},
                 new LetterAModel { EnglishName = "Boat", Image = "boat.png", Mp3Path = "BOAT.mp3", TWIName = "Obonto", TwiMp3Path = "OBONTO.mp3"},
                 new LetterAModel { EnglishName = "Caterpillar", Image = "caterpillar.png", Mp3Path = "CATERPILLAR.mp3", TWIName = "Osa", TwiMp3Path = "OSA.mp3"},
                 new LetterAModel { EnglishName = "Dishonest person", Image = "dishonest.png", Mp3Path = "DISHONESTPERSON.mp3", TWIName = "Okotomponi", TwiMp3Path = "OKOTONPONI.mp3"},

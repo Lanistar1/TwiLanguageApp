@@ -55,7 +55,7 @@ namespace TwiApp.ViewModels.U
             ContentList = new List<LetterAModel>
             {
                 new LetterAModel { EnglishName = "Banana", Image = "banana.png", Mp3Path = "BANANA.mp3", TWIName = "Kwadu", TwiMp3Path = "KWADU.mp3"},
-                new LetterAModel { EnglishName = "Black", Image = "black.png", Mp3Path = "BLACK.mp3", TWIName = "Tuntun", TwiMp3Path = "TUNTUM.mp3"},
+                new LetterAModel { EnglishName = "Black", Image = "black.png", Mp3Path = "BLACK.mp3", TWIName = "Tuntum", TwiMp3Path = "TUNTUM.mp3"},
                 new LetterAModel { EnglishName = "Blow", Image = "blow.png", Mp3Path = "BLOW.mp3", TWIName = "Hu", TwiMp3Path = "HU.mp3"},
                 new LetterAModel { EnglishName = "Jump", Image = "boxJump.png", Mp3Path = "JUMP.mp3", TWIName = "Huri", TwiMp3Path = "HURI.mp3"},
                 new LetterAModel { EnglishName = "Cry", Image = "crying.png", Mp3Path = "CRY.mp3", TWIName = "Su", TwiMp3Path = "SU.mp3"},

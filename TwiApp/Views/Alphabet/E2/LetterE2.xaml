@@ -4,7 +4,7 @@
              x:Class="TwiApp.Views.Alphabet.E2.LetterE2"
              NavigationPage.HasNavigationBar="True"
              BackgroundColor="#FAFBFF"
-             Title="Letter 3">
+             Title="{Binding Title}">
 
     <Grid Margin="20">
         <Grid.RowDefinitions>

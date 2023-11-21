@@ -46,6 +46,17 @@ namespace TwiApp.ViewModels.E2
             }
         }
 
+        private string title;
+        public string Title
+        {
+            get => title;
+            set
+            {
+                title = value;
+                OnPropertyChanged(nameof(Title));
+            }
+        }
+
 
         private int currentIndex;
 
@@ -73,6 +84,7 @@ namespace TwiApp.ViewModels.E2
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();
 
+            Title = "Letter ɛ";
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

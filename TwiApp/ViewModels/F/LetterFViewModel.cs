@@ -56,7 +56,7 @@ namespace TwiApp.ViewModels.F
             {
                 new LetterAModel { EnglishName = "Beautiful", Image = "beautiful.png", Mp3Path = "BEAUTIFUL.mp3", TWIName = "Fɛfɛɛfɛ", TwiMp3Path = "FEEFEEFE.mp3"},
                 new LetterAModel { EnglishName = "Bring it", Image = "bring.png", Mp3Path = "BRINGIT.mp3", TWIName = "Fa bra", TwiMp3Path = "FABRA.mp3"},
-                new LetterAModel { EnglishName = "Call", Image = "call.png", Mp3Path = "CALL.mp3", TWIName = "Fre", TwiMp3Path = "FR3.mp3"},
+                new LetterAModel { EnglishName = "Call", Image = "call.png", Mp3Path = "CALL.mp3", TWIName = "frɛ ", TwiMp3Path = "FR3.mp3"},
                 new LetterAModel { EnglishName = "Flag", Image = "flag.png", Mp3Path = "FLAG.mp3", TWIName = "Frankaa", TwiMp3Path = "FRANKAA.mp3"},
                 new LetterAModel { EnglishName = "Forgive", Image = "forgive.png", Mp3Path = "FORGIVE.mp3", TWIName = "Fa kyɛ", TwiMp3Path = "FAKY3.mp3"},
                 new LetterAModel { EnglishName = "Fufu", Image = "fufu.png", Mp3Path = "FUFU.mp3", TWIName = "Fufuo", TwiMp3Path = "FUFUO.mp3"},

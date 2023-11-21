@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TwiApp.Views.More.GreetingPage"
-             NavigationPage.HasNavigationBar="False"
-             BackgroundColor="#FAFBFF">
-
+             x:Class="TwiApp.Views.More.FamilyPage"
+             NavigationPage.HasNavigationBar="True"
+             BackgroundColor="#FAFBFF"
+             Title="Family">
 
     <ScrollView VerticalScrollBarVisibility="Never">
         <Grid Margin="20">
@@ -14,9 +14,7 @@
             </Grid.RowDefinitions>
 
             <Grid Grid.Row="0">
-                <!--<ImageButton BackgroundColor="Transparent" Clicked="Back" Source="cancel.png" WidthRequest="35" HeightRequest="35" HorizontalOptions="StartAndExpand" />-->
-
-                <Image Source="topgreeting.png" WidthRequest="100" HeightRequest="100"/>
+                <!--<Image Source="topgreeting.png" WidthRequest="100" HeightRequest="100"/>-->
             </Grid>
 
             <StackLayout Grid.Row="1" Margin="0,10,0,0">
@@ -38,17 +36,12 @@
                             Stroke="#000000"
                             StrokeDashArray="0,0"
                             StrokeDashOffset="5"/>
-                    <!--<Line X1="0"
-                          Y1="500"
-                          X2="0"
-                          Y2="0" HorizontalOptions="CenterAndExpand"
-                          Margin="0,-30,0,0"
-                          Stroke="#ffffff"
-                          StrokeDashArray="0,0"
-                          StrokeDashOffset="10"/>-->
 
                     <Grid Margin="10,0,0,0">
                         <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
                             <RowDefinition Height="auto"/>
                             <RowDefinition Height="auto"/>
                             <RowDefinition Height="auto"/>
@@ -69,115 +62,140 @@
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Welcome" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Akwaaba" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Father" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Papa" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="1">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Come in" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Bra mu" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Mother" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Maame" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="2">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Knocking" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="KᴐKᴐKᴐᴐKᴐ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Siblings" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nua" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="3">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Good Morning" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Mema wo akye (maakye)" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Brother" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nua Barima" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="4">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Good Afternoon" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Mema wo aha (maaha)" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Sister" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nua Baa " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="5">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Good Evening" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Mema wo adwo (maahwo)" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Older Siblings" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nua Panin" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="6">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Respond to older male" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Yaa agya" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Younger Siblings" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nua Kumaa/Nua Ketewa " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="7">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Respond to older female" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Yaa ena" TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Twins" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Ntaa/Ntaafoɔ " TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="8">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Response, child to adult" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Yaa ᴐba" TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Uncles" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Wɔfa" TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="9">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Response" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Yaa nua(yae aenwia)" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Aunt" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Sewaa" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="10">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Goodbye" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Nante yie" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Niece/Nephew" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Wɔfa'se" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="11">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Bye" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Kᴐ bra" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="GrnadParents" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nana" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="12">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="See you later" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Yebehyia (yebehyia) bio" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Husband" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Kunu" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="13">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="How are you?" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Wo ho te s3n?" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Wife" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Ɔyere" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="14">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Fiancee" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Mpena" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="15">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Bachelor" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Osugyani" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="16">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Family" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Abusua" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                     </Grid>
                 </StackLayout>
+
             </StackLayout>
         </Grid>
     </ScrollView>

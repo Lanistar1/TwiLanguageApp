@@ -54,7 +54,7 @@ namespace TwiApp.ViewModels.L
             ContentList = new List<LetterAModel>
             {
                 new LetterAModel { EnglishName = "Calendar", Image = "calendar.png", Mp3Path = "calendar.mp3", TWIName = "Kalanda", TwiMp3Path = "KALANDA.mp3"},
-                new LetterAModel { EnglishName = "Bus", Image = "bus.png", Mp3Path = "CAR.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
+                new LetterAModel { EnglishName = "Bus", Image = "bus.png", Mp3Path = "Bus.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
                 new LetterAModel { EnglishName = "Car", Image = "car.png", Mp3Path = "CAR.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
                 new LetterAModel { EnglishName = "Fashionable", Image = "fahionable.jpg", Mp3Path = "birdplay.mp3", TWIName = "Laif", TwiMp3Path = ""},
                 new LetterAModel { EnglishName = "Football", Image = "football.png", Mp3Path = "FOOTBALL.mp3", TWIName = "Bɔɔlɔ", TwiMp3Path = "B))LO.mp3"},
@@ -64,8 +64,8 @@ namespace TwiApp.ViewModels.L
                 new LetterAModel { EnglishName = "Lottery", Image = "lottery.png", Mp3Path = "LOTTERY.mp3", TWIName = "Lotto", TwiMp3Path = "LOTTO.mp3"},
                 new LetterAModel { EnglishName = "Ludo", Image = "ludo.png", Mp3Path = "LUDO.mp3", TWIName = "Ludu", TwiMp3Path = "LUDU.mp3"},
                 new LetterAModel { EnglishName = "Macaroni", Image = "macaroni.png", Mp3Path = "MARCORONI.mp3", TWIName = "Taalia", TwiMp3Path = "TALIA.mp3"},
-                new LetterAModel { EnglishName = "Policeman", Image = "policeman2.png", Mp3Path = "POLICE.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
-                new LetterAModel { EnglishName = "Sandal", Image = "sandals.png", Mp3Path = "SLIPPERS.mp3", TWIName = "Kyalewɔte", TwiMp3Path = "KYALEW)TE.mp3"},
+                new LetterAModel { EnglishName = "Police", Image = "policeman2.png", Mp3Path = "POLICE.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
+                new LetterAModel { EnglishName = "Slippers", Image = "sandals.png", Mp3Path = "SLIPPERS.mp3", TWIName = "Kyalewɔte", TwiMp3Path = "KYALEW)TE.mp3"},
                 new LetterAModel { EnglishName = "Skirt", Image = "skirt.png", Mp3Path = "SKIRT.mp3", TWIName = "Slit", TwiMp3Path = "SLIT.mp3"},
                 new LetterAModel { EnglishName = "Street", Image = "street.png", Mp3Path = "STREET.mp3", TWIName = "Lɔre kwan", TwiMp3Path = "L)REKWAN.mp3"},
             };

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TwiApp.Views.More.AnimalPage"
+             NavigationPage.HasNavigationBar="True"
+             BackgroundColor="#FAFBFF"
+             Title="Animals">
+
+    <ScrollView VerticalScrollBarVisibility="Never">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <!--<Image Source="topgreeting.png" WidthRequest="100" HeightRequest="100"/>-->
+            </Grid>
+
+            <StackLayout Grid.Row="1" Margin="0,10,0,0">
+                <Grid Grid.Row="1" Margin="20,0,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="English" TextColor="#110F0F" FontSize="18" FontAttributes="Bold" Grid.Column="0" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                    <Label Text="Twi" TextColor="#110F0F" FontSize="18" FontAttributes="Bold" Grid.Column="1" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                </Grid>
+                <StackLayout VerticalOptions="StartAndExpand">
+
+                    <Line X1="0"
+                            Y1="0"
+                            X2="400"
+                            Y2="2"
+                            Margin="10,0"
+                            Stroke="#000000"
+                            StrokeDashArray="0,0"
+                            StrokeDashOffset="5"/>
+
+                    <Grid Margin="10,0,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Rabbit" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Adanko" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Mother" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Maame" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Butterfly" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Afrafrantɔ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Chicken" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Akokɔ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="4">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Hawk" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Akroma " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Bat" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Apan" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="6">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Frog" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Apɔtr " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="7">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Goat" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Apɔnkye " TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="8">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Cat" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Ɔkra/Agyinamoa" TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="9">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Dog" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Ɔkraman/Kraman" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Squirrel" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Opuro" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="11">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Snake" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="ƆwƆ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="12">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Duck" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Dabodabo" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="13">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Turkey" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Krokrokoko" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="14">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Cow" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Nantwie" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="15">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Sheep" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Odwan" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="16">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Wolf" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Pataku" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="17">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Vulture" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Pɛtɛ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                        <Grid Grid.Row="18">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Fox" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Sakraman" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                        </Grid>
+                    </Grid>
+                </StackLayout>
+
+            </StackLayout>
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
