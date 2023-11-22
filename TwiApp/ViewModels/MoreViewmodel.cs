@@ -59,31 +59,9 @@ namespace TwiApp.ViewModels
 
             TappedCommand = new Command<MoreModel>(async (model) => await GetTappedExecute(model));
 
-            //TappedCommand = new Command(async () => await GetTappedExecute());
-
         }
 
         public Command TappedCommand { get; }
-
-        //private async Task GetTappedExecute()
-        //{
-        //    try
-        //    {
-        //        if (ContentList.FirstOrDefault().Name.Contains("Greetings"))
-        //        {
-        //            await Navigation.PushAsync(new GreetingPage(), true);
-        //        }
-        //        else
-        //        {
-        //            await Navigation.PushAsync(new AboutApp());
-
-        //        }
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        Console.WriteLine(ex);
-        //    }
-        //}
 
 
         private async Task GetTappedExecute(MoreModel model)
@@ -95,6 +73,42 @@ namespace TwiApp.ViewModels
 
                     await Navigation.PushAsync(new GreetingPage());
 
+                }
+                else if(model.Name.Contains("Fruits"))
+                {
+                    await Navigation.PushAsync(new VegetablePage());
+                }
+                else if (model.Name.Contains("Animals"))
+                {
+                    await Navigation.PushAsync(new AnimalPage());
+                }
+                else if (model.Name.Contains("Human"))
+                {
+                    await Navigation.PushAsync(new HumanPage());
+                }
+                else if (model.Name.Contains("Days"))
+                {
+                    await Navigation.PushAsync(new DaysOfWeekPage());
+                }
+                else if (model.Name.Contains("Colors"))
+                {
+                    await Navigation.PushAsync(new ColourPage());
+                }
+                else if (model.Name.Contains("Family"))
+                {
+                    await Navigation.PushAsync(new FamilyPage());
+                }
+                else if (model.Name.Contains("Numbers"))
+                {
+                    await Navigation.PushAsync(new NumberPage());
+                }
+                else if (model.Name.Contains("Introduction"))
+                {
+                    await Navigation.PushAsync(new IntroducionPage());
+                }
+                else if (model.Name.Contains("Human body"))
+                {
+                    await Navigation.PushAsync(new HumanBodyPage());
                 }
                 else
                 {

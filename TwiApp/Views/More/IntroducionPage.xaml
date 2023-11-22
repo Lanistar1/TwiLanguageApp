@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TwiApp.Views.More.ColourPage"
+             x:Class="TwiApp.Views.More.IntroducionPage"
              NavigationPage.HasNavigationBar="True"
              BackgroundColor="#FAFBFF"
-             Title="Colours">
+             Title="Numbers">
 
     <ScrollView VerticalScrollBarVisibility="Never">
         <Grid Margin="20">
@@ -64,72 +64,40 @@
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Rabbit" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Adanko" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Mu name is ..." Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Me din de ..." Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="1">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Brown" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Ahaban dada" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="I come from ..." Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Me firi ..." Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="2">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Green" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Ahaban monoɔ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="I live at ..." Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Me te ..." Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="3">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Yellow" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Akokɔ sradeɛɔ" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="What is your name?" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Wo din de sεn?" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                         <Grid Grid.Row="4">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
-                            <Label Text="Blue" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Bribri " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                        </Grid>
-                        <Grid Grid.Row="5">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Label Text="White" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Fitaa" Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                        </Grid>
-                        <Grid Grid.Row="6">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Label Text="Red" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="KɔKɔɔ " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                        </Grid>
-                        <Grid Grid.Row="7">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Label Text="Black" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Tumtum " TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                        </Grid>
-                        <Grid Grid.Row="8">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Label Text="Dark" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
-                            <Label Text="Tuum" TextColor="#110F0F" Grid.Column="1" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Where do you come from?" Grid.Column="0" TextColor="#110F0F" FontSize="14"  HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
+                            <Label Text="Wo firi he? " Grid.Column="1" TextColor="#110F0F" FontSize="14" HorizontalTextAlignment="Start" Margin="0,0,0,0"/>
                         </Grid>
                     </Grid>
                 </StackLayout>
