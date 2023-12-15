@@ -33,7 +33,7 @@
                                 <TapGestureRecognizer Tapped="To_LetterAContentPage"/>
                             </StackLayout.GestureRecognizers>
                             <Image Source="{Binding Image}" WidthRequest="100" HeightRequest="100" HorizontalOptions="StartAndExpand"/>
-                            <Label Text="{Binding EnglishName}" TextColor="#272728" FontSize="14" Margin="0,0,0,0" FontFamily="DMSans-Regular" HorizontalTextAlignment="Center"/>
+                            <Label Text="{Binding TWIName}" TextColor="#272728" FontSize="14" Margin="0,0,0,0" FontFamily="DMSans-Regular" HorizontalTextAlignment="Center"/>
 
                         </StackLayout>
                     </Frame>

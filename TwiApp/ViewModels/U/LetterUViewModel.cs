@@ -63,7 +63,7 @@ namespace TwiApp.ViewModels.U
                 new LetterAModel { EnglishName = "Fly", Image = "fly.png", Mp3Path = "FLY.mp3", TWIName = "Tu", TwiMp3Path = "TU.mp3"},
                 new LetterAModel { EnglishName = "Food", Image = "food.png", Mp3Path = "FOOD.mp3", TWIName = "Aduane", TwiMp3Path = "ADUANE.mp3"},
                 new LetterAModel { EnglishName = "Hold", Image = "hold.png", Mp3Path = "HOLD.mp3", TWIName = "sᴐ mu", TwiMp3Path = "S)MU.mp3"},
-                new LetterAModel { EnglishName = "Measure", Image = "measure.png", Mp3Path = "MEASURE.mp3", TWIName = "Susu", TwiMp3Path = "MEASURE.mp3"},
+                new LetterAModel { EnglishName = "Measure", Image = "measure.png", Mp3Path = "measureenglish.mp3", TWIName = "Susu", TwiMp3Path = "MEASURE.mp3"},
                 new LetterAModel { EnglishName = "Rat", Image = "rat.png", Mp3Path = "RAT.mp3", TWIName = "Akura", TwiMp3Path = "AKURA.mp3"},
                 new LetterAModel { EnglishName = "Rice balls", Image = "riceballs.png", Mp3Path = "RICEBALL.mp3", TWIName = "Emotuo", TwiMp3Path = "3MOTUO.mp3"},
                 new LetterAModel { EnglishName = "Shout", Image = "shout.png", Mp3Path = "SHOUT.mp3", TWIName = "Tea mu", TwiMp3Path = "TEAMU.mp3"},
@@ -100,5 +100,4 @@ namespace TwiApp.ViewModels.U
             }
         }
     }
-
 }

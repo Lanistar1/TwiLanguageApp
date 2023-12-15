@@ -64,7 +64,7 @@ namespace TwiApp.ViewModels.H
                 new LetterAModel { EnglishName = "Pour", Image = "pour.png", Mp3Path = "POUR.mp3", TWIName = "Hwie", TwiMp3Path = "HWIE.mp3"},
                 new LetterAModel { EnglishName = "Put on Shirt", Image = "putonshirtclipart.png", Mp3Path = "PutonShirt.mp3", TWIName = "Hyɛ atade", TwiMp3Path = "Hy3ataade.mp3"},
                 new LetterAModel { EnglishName = "Restart", Image = "restart.png", Mp3Path = "RESTART.mp3", TWIName = "Hyɛ aseɛ bio", TwiMp3Path = "HY3ASE3BIO.mp3"},
-                new LetterAModel { EnglishName = "Shine", Image = "shine.png", Mp3Path = "Shine.mp3", TWIName = "Hyer3n", TwiMp3Path = "Hyer3n.mp3"},
+                new LetterAModel { EnglishName = "Shine", Image = "shine.png", Mp3Path = "Shine.mp3", TWIName = "Hyer3n", TwiMp3Path = "HYER3N.mp3"},
                 new LetterAModel { EnglishName = "Smell", Image = "smell.png", Mp3Path = "SMELL.mp3", TWIName = "Hwia", TwiMp3Path = "HWIA.mp3"},
                 new LetterAModel { EnglishName = "Start", Image = "start.png", Mp3Path = "START.mp3", TWIName = "Hyɛ aseɛ", TwiMp3Path = "HY3ASE3.mp3"},
                 new LetterAModel { EnglishName = "Wobble", Image = "wobble.png", Mp3Path = "WOBBLE.mp3", TWIName = "Hinhim", TwiMp3Path = "HINHIM.mp3"},

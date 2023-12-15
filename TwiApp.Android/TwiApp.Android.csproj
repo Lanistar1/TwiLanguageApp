@@ -3360,5 +3360,8 @@
   <ItemGroup>
     <AndroidAsset Include="Assets\Lazy.mp3" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\measureenglish.mp3" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

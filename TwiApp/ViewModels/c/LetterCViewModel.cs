@@ -68,8 +68,8 @@ namespace TwiApp.ViewModels.c
                 new LetterAModel { EnglishName = "Eagle", Image = "baldeagle.png", Mp3Path = "EAGLE.mp3", TWIName = "ɔkɔdeɛ", TwiMp3Path = ")K)DE3.mp3"},
                 new LetterAModel { EnglishName = "Cat", Image = "cat.png", Mp3Path = "CAT.mp3", TWIName = "ɔkra", TwiMp3Path = ")KRA.mp3"},
                 new LetterAModel { EnglishName = "Clock", Image = "clock.png", Mp3Path = "CLOCK.mp3", TWIName = "ɔdɔn", TwiMp3Path = ")D)N.mp3"},
-                new LetterAModel { EnglishName = "Deer", Image = "deer.png", Mp3Path = "Deer.mp3", TWIName = "ɔforoteɛ", TwiMp3Path = ")FOROTE3.mp3"},
-                new LetterAModel { EnglishName = "Duiker", Image = "duiker.png", Mp3Path = "Duiker.mp3", TWIName = "ɔtwe", TwiMp3Path = ")TWE.mp3"},
+                new LetterAModel { EnglishName = "Deer", Image = "deer.png", Mp3Path = "DEER.mp3", TWIName = "ɔforoteɛ", TwiMp3Path = ")FOROTE3.mp3"},
+                new LetterAModel { EnglishName = "Duiker", Image = "duiker.png", Mp3Path = "DUIKER.mp3", TWIName = "ɔtwe", TwiMp3Path = ")TWE.mp3"},
                 new LetterAModel { EnglishName = "Elephant", Image = "elephant.png", Mp3Path = "ELEPHANT.mp3", TWIName = "ɔsono", TwiMp3Path = ")SONO.mp3"},
                 new LetterAModel { EnglishName = "Hunter", Image = "Hunter.png", Mp3Path = "HUNTER.mp3", TWIName = "ɔbɔmmɔfoɔ", TwiMp3Path = ")B)FO).mp3"},
                 new LetterAModel { EnglishName = "Lazy", Image = "lazy.png", Mp3Path = "Lazy.mp3", TWIName = "ɔkwadwofoɔ", TwiMp3Path = ")KWADWOFO).mp3"},
@@ -84,7 +84,7 @@ namespace TwiApp.ViewModels.c
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();
 
-            Title = "Letter ᴐ";
+            Title = "Letter Ↄ";
 
         }
 

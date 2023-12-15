@@ -66,10 +66,10 @@ namespace TwiApp.ViewModels.P
                 new LetterAModel { EnglishName = "Octopus", Image = "octopus.png", Mp3Path = "OCTOPUS.mp3", TWIName = "Posena", TwiMp3Path = "POSENA.mp3"},
                 new LetterAModel { EnglishName = "Owl", Image = "owl.png", Mp3Path = "OWL.mp3", TWIName = "Patuo", TwiMp3Path = "PATUO.mp3"},
                 new LetterAModel { EnglishName = "Pig", Image = "pig.png", Mp3Path = "PIG.mp3", TWIName = "Prako", TwiMp3Path = "PRAKO.mp3"},
-                new LetterAModel { EnglishName = "Policeman", Image = "policeman.png", Mp3Path = "Policeman.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
+                new LetterAModel { EnglishName = "Policeman", Image = "policeman.png", Mp3Path = "policeman.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
                 new LetterAModel { EnglishName = "Sweep", Image = "sweep.png", Mp3Path = "SWEEP.mp3", TWIName = "Pra", TwiMp3Path = "PRA.mp3"},
                 new LetterAModel { EnglishName = "Table", Image = "table.png", Mp3Path = "TABLE.mp3", TWIName = "Pono", TwiMp3Path = "PONO.mp3"},
-                new LetterAModel { EnglishName = "Underpants", Image = "underpants.png", Mp3Path = "PANTS.mp3", TWIName = "Pioto", TwiMp3Path = "PIOTO.mp3"},
+                new LetterAModel { EnglishName = "Pants", Image = "underpants.png", Mp3Path = "PANTS.mp3", TWIName = "Pioto", TwiMp3Path = "PIOTO.mp3"},
             };
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();
