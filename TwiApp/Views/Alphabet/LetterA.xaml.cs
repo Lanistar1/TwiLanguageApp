@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using TwiApp.Models.A;
 using TwiApp.ViewModels.A;
 using TwiApp.Views.Alphabet.A;
+using TwiApp.Views.Alphabet.B;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -115,6 +116,19 @@ namespace TwiApp.Views.Alphabet
                 LetterAViewModel.Instance.SelectedContent = selectedModel;
             }
             Navigation.PushAsync(new LetterAContentPage());
+        }
+
+        private async void OnSwipedLeft(object sender, SwipedEventArgs e)
+        {
+            // Navigate to the next page (replace with your navigation logic)
+            //await Navigation.PushAsync(new NextPage());
+        }
+
+        // Event handler for right swipe
+        private async void OnSwipedRight(object sender, SwipedEventArgs e)
+        {
+            // Navigate to the previous page (replace with your navigation logic)
+            await Navigation.PushAsync(new LetterB());
         }
     }
 }

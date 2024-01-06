@@ -142,4 +142,3299 @@
       <Name>TwiApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\baldeagle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ball.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bamboo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\banana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\basket.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\beautiful.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bell.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\belly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Bird.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Bird.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\birdnest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\birdscage.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\blade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\blow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\blow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\boardgame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\boat.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\boat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\body.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Bone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bonfire.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\boss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bottle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\boxJump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bread.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bring.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\broom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bucket.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\buffalo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\burn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\butterfly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\butterfly2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\butterfly2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bycicle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\calendar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\call.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\camel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\car.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cassava.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\caterpillar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cauldron.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Charcoal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chicken.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chicken.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\child.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\children.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\childrendown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chimney.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chrismas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\clock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\closure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\clouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cockroach.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cocoa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\coconut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\coconuttree.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cocoyam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\colander.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\come.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\crawl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\crocodile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\crying.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cutlass.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\darkness.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\days.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\deer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\diningtable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dishonest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\downimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\drums.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\duck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\duiker.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\E2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\eat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\egg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\elephant.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\eye2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\eye2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\eyebrow3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fahionable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\family.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\feather.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\field.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\finger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\finish.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fire.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fireman.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\firewood.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\firstaidbox.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fish3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fishhook.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\five.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\flag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\flower2a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fly.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\food.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\football.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\forge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\forgive.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fox.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\friedplantain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\friend.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\frog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\frog2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\frog2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fruit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fufu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\galon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gardenegg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Gari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gentleman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gift.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\grapes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\grass.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\greet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\greeting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\haircut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hairdye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\halk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hammer.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\handleme.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\handover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\head.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hold.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Homebg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\homework.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\honey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\horn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\horse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\human.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Hunter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hurricane.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hurry3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hyena.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\I.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\inject.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\injury.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\intro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Jesus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jockey.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Jump.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kenkey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kitchen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\knife.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\knot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kolanut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\laugh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lazy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\learntext.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\learntwi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\leg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\letter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lightbulb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\look.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lost.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lottery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ludo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\macaroni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mango2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mango2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Mason.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\matches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\measure.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\meat2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\meeting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\melon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\metal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\miner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\monkey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\monkey2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\monkey2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\MORE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mortar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mortarandpestle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mosquitoes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mouth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mouth2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mouth2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mushroom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\needle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\newspaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\noise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\numbers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\occiput.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\octopus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\okro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\onion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\orange2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\orange2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ostrich.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\oven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\owl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\P.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\parrot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pawpaw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pawpaw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\peanut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pencil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pepper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pharmacist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\photoalbum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\piano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pig.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pillow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pilot.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pineapple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pineapple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\policeman.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\policeman2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\poorman.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\porcupine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pour.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Priest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\professor.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pronoun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pupil.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\putinside.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\putonshirtclipart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Queen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\quietgirl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rabbit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rabbit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rat2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\restart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ribbon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rice2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\riceball.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\riceballs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ricewithbeans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ring.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\road.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\room.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\salt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sandals.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\scarecrow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\scary.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\scissor2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\scissor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\scorpion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Shark.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sheep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\shine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\shoe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\shoulder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\shout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\shovel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\show.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Sibling.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\skirt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\skirt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sleep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\smell.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\smock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\smoke.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\snail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\snake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\soap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\soldier.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\spider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\spider2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sponge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\squeeze.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\squirrel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\stand.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\standthere.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\star.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\start.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\stone.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\stopcrying.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\street.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\student.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sugar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sweep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\table.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\take.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\takeaway.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\teacher.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\teeth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\television.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ten.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tiger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\toffee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\toilet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tongue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topgreeting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topmore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\topY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\torch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\towel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\trap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tree.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tryagain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\turkey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\twi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\twialpha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\U.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\umbrella.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\underpants.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\us.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wasp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\water.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\weather.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\welcomebg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\whiteimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\window.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\windy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wobble.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\world.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\worm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\write.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\writingboard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\yam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\yaw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\yawning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\yellowtop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\you.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\zoo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\aeroplane.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\african.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\age.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\allages.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\alligator.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\animal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\archery.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arrange.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arrowleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arrowright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ask.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\asleep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\avocadopear.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Y3NT3M.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YAFUNU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YAM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YARE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YAWN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YERA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YESU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YIMPATAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YITIRINWI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YIWAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YOMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YOMO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\YOU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ytwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ZOO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29B%29FO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29BOTAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29D%29N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29DANSIFO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29FOROTE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29HEMAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29K%29DE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29KRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29KWADWOFO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29KYER3KYER3NI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29S%29FO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29SONO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29SRAANI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29TWE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\%29w%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\2 ALLIGATOR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3 OWARE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3BO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3DAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3FER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3KO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3KWAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3KY3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3MO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3MOTUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3NAM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3NNA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3P%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3PO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3SE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3SER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\3WO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\A.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AB3N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AB3TIRI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\abofra.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AboutAssets.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ABR%29B3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ADANKO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ADOE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ADUANE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\adwumawura.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AEROPLANE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AFEHYIAPA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AFRAFRANT%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AFRICAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AGOPRAMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Agopramaso.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AKOK%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AKONNWA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AKOROMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AKURA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ALLIGATOR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AMANGO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ANANSE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ANI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ANIAKYNWI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ANKAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ANO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ANOMAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AP%29TR%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\APASO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ARCHERY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ARRANGE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ASIKYIRE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ASK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ASLEEP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\asranna.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ATIK%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Atwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\AWIA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ayoz.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\B%29%29LO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\B%29T%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\B.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BAMBOO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BAMMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BANANA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BANKYE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BASIKERE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BASKET.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BATAKARI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BAYER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BEAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BEAUTIFUL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BED.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BELL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BEMMATO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BEQUIET.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BESE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BICYCLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BIDIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BIRD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BirdCage.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\birdplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BISA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BLACK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BLADE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BLOW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BOARDGAME.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BOAT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BOBE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BOKITI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BONE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BONFIRE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BONSU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BOR%29FER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\boss.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BOTTLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\bread.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BRIGHTEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BRINGIT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BRODO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BROOM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Btwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BUCKET.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BUFFALO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BURN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BUROGYA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Bus.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BUSSTATION.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\BUTTERFLY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\butterflyplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\C.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CAGE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\calendar.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CALL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CAMEL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CASSAVA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CAT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CATERPILLAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CAULDRON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CHAIR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CHARCOAL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CHEW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CHICKEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\chickenplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\child.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CHILDREN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CHIMNEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CLOCK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COCKROACH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COCOA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COCONUT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COCONUTTREE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COCOYAM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COLANDER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COME.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\COW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CRAWL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CROCODILE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CRY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ctwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CUP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\CUTLASS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\D%29KONO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\D%29N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\D.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\D3NKY3M.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DABODABO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DADE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DADESEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DADEWA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DAREWA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DARKNESS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DAWUROBOKRATAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DEDE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DEER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DIDI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DIDIPONO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DININGTABLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DISHONESTPERSON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DOCTOR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DOG.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DOKOTA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DOMPE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DRUMS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Dtwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DUA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DUCK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\DUIKER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\E.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\E2twi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EAGLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EAT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EBUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EBURA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EDU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EDWIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EFIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EFIEDWUMADIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EGG.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EGYA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EHU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EKURO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ELEPHANT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ENUM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ESUM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ETIRE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ETUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Etwi %281%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Etwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EWIEM%28.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EYEBROW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\EYES.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\eyesplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\F.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FABRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FAGUDE3TUNI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FAK%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FAKY3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FAKYER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FAMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FATOMU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FEAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FEATHER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FEEFEEFE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FIDIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FINGER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FINISH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FIRE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FIREMAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FIREWOOD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FIRSTAIDBOX.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FISH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FISHHOOK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FITAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FIVE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FLAG.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FLOWER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FLY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FONONOO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FOOD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FOOTBALL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FORGE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FORGIVE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FOX.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FR3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FRANKAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FRIENDSHIP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FROG.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\frogplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ftwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FUFU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\FUFUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\G.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GAL%29N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GALON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GARDENEGGS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GARE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GARI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GENTLEMAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GRAPES.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GRASS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GREET.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Gtwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GUN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYAADE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYABIDIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYAE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYAESU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYAMPANTRUDU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYAT3N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYATA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYATANAA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYEENE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYENTIA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYINA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\GYINAH%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\H.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAIRCUT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAIRDYE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAMMER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAND.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HANDOVER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAPPYNEWYEAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HAWK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HEAD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HINHIM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HOLD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HOMEWORK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HONEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HORN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\horse.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HOUSE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HRAM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Htwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HUNTER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HURI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HURRICANE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HURRY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HW3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HWENE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HWIA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HWIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HY3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HY3ASE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HY3ASE3BIO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Hy3ataade.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HYE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HYEHY3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\hyena.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\HYER3N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\I.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\INJECT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\INJURY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Itwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\J.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\JAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\JESUS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\JOCKEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\JUMP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\K%29T%29K%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\K.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\K3NT3N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KALANDA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KANEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KASAMFONI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KAWA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KELEWELE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KENKEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KITCHEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KNIFE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KNOT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KOLANUT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KOOKOO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KOSUA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KOTOKURODU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KRADA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KRAMAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\krokrokoko.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ktwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KUBE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KUBEDUA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KURUWA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KWADU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KYALEW%29TE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KYEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\KYINII3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\L%29RE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\L%29REGYINABEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\L%29REKWAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\L.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\L3T3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\laughter.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Lazy.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LEG.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LETTER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LIGHTBULB.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LION.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LOOK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LOST.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LOTTERY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LOTTO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LOUSE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ltwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LUDO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\LUDU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\M.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MAKO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MANGO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\mangoplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MANKANI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MARCORONI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MASON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MATCHES.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MEASURE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\measureenglish.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MEAT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MEETING.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MELON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\METAL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MFONINWOMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MFRAMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MIA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MINER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MM%29FRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MMIRE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MMOAADAKA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MMOATURO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MONEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MONKEY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\monkeyplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MORTAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MOSQUITO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MOUSE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\mouseplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MOUTH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\mouthplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MPA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MPABOA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MPAMPURO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MPOMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MPOPAHO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Mtwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\MUSHROOM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NAIL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NANTWIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEEDLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEST.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEWSPAPER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NHWIREN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NHYIAMU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NKATE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NKRANT3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NKRUMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NKYENE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NOISE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NOSE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NSA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NSATEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NSROMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NSUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NTONTOM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ntwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NUA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NUTS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NWA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NYAADOA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NYANYANKYER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\O.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OBIBINI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OBONTO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OBREKUTU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OCCIPUT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OCTOPUS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ODUMGYA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ODUY3FO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ODWAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OHINANI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OKOTONPONI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OKRO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OKUNINI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OKYEKYE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ONION.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OPURO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ORANGE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OSA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OSTRICH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OSUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Otwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OVEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OWARE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OWIA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OWL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\OWURA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\P%29NK%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\P%29NK%29KAFO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\P.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PAANOO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PANE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PANTS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\pataku.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PATUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PAWPAW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PAYA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PEAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PENCIL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PEPPER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PESTLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PHARMACIST.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PHOTOALBUM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PIANO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PIG.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PILLOW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PILOT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PINEAPPLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\pineplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PIOTO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PIRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PLAYGROUND.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\pnk.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\POCUPINE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\POLICE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\policeman.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\polisini.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PONO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\POORPERSON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\POSENA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\POUR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PRAE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PRAKO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PRIEST.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PROFESSOR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ptwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PUPIL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PUTINSIDE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\PutonShirt.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\QUEEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\R.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RABBIT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\rabbitplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RAIN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RAT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RESTART.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RIBBON.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RICE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RICEANDBEANS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RICEBALL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\RING.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ROAD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ROCK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ROOM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Rtwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\S%29MU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\S%29NE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\S.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SACK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SAFOA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SALT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SAMINA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SAP%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SCARECROW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SCARY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SCISSORS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SCORPION.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SEB%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SEKAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\sere3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHARK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHEEP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Shine.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHOE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHOULDER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHOUT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHOVEL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SHOW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SIBLING.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SICK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SIKA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SISIRE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SKIRT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SKY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SLEEP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SLIPPERS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SLIT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SLUGGARD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SMELL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SMOCK.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SMOKE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SNAIL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SNAKE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SNAKUO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SOAP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SOFI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SOFTFRIEDPLANTAIN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SOHORI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SOLDIER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SONSONO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SORE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SPIDER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\spiderplay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SPONGE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SQUEEZE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SQUIRREL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STAMP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STAND.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STANDTHERE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\START.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STOMACH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STONE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STOP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STOPCRYING.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\STREET.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Stwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SUGAR.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SUKUUNI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SUMII3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SUN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SURO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\SWEEP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\T%29FE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\T.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\T3FR3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\T3KYER3MA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TABLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TAKE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TAKEITAWAY.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TAKRA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TALIA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TEACHER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TEAMU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TEASE3NAM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TEETH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TELEVISION.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TEN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TIAFI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TIGER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TII.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TIM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TOA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TOFFEE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TOILET.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TONGUE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TORCH.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TOWEL.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TRAP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TREE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TRYAGAIN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Ttwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TU.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TUMPAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TUNTUM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\turkey.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TWENE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TWER3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TWER3DUA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\TWER3PONO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\U.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\UMBRELLA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\US.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Utwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\W%29MMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\W%29PANE3.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\W.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WAAKYE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WADA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WADURO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WASP.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WATER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WEA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WEARPUTONSHIRT.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WEATHER.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WHITE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WIASE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WIEM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WIEMHY3N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WIEMHY3NKANI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WIND.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WINDOW.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WOBBLE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WORLD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WORM.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WRITE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WRITINGBOARD.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Wtwi.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WUSIE.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\WUSIKWAN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Y%29NKO%29.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Y.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Y3BIO.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Y3DINN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\Y3N.mp3" />
+  </ItemGroup>
 </Project>
