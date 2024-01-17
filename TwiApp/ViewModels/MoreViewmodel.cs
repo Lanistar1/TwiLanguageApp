@@ -112,7 +112,7 @@ namespace TwiApp.ViewModels
                 }
                 else
                 {
-
+                    await Navigation.PushAsync(new PronounPage());
                 }
 
 

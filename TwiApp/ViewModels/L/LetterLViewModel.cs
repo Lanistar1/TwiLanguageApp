@@ -54,20 +54,20 @@ namespace TwiApp.ViewModels.L
             ContentList = new List<LetterAModel>
             {
                 new LetterAModel { EnglishName = "Calendar", Image = "calendar.png", Mp3Path = "calendar.mp3", TWIName = "Kalanda", TwiMp3Path = "KALANDA.mp3"},
-                new LetterAModel { EnglishName = "Bus", Image = "bus.png", Mp3Path = "Bus.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
-                new LetterAModel { EnglishName = "Car", Image = "car.png", Mp3Path = "CAR.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
+                new LetterAModel { EnglishName = "Bus", Image = "bus.jpg", Mp3Path = "Bus.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
+                new LetterAModel { EnglishName = "Car", Image = "car.jpg", Mp3Path = "CAR.mp3", TWIName = "Lɔre", TwiMp3Path = "L)RE.mp3"},
                 new LetterAModel { EnglishName = "Fashionable", Image = "fahionable.jpg", Mp3Path = "birdplay.mp3", TWIName = "Laif", TwiMp3Path = ""},
-                new LetterAModel { EnglishName = "Football", Image = "football.png", Mp3Path = "FOOTBALL.mp3", TWIName = "Bɔɔlɔ", TwiMp3Path = "B))LO.mp3"},
-                new LetterAModel { EnglishName = "Soft fried plantain", Image = "friedplantain.png", Mp3Path = "SOFTFRIEDPLANTAIN.mp3", TWIName = "kelewele", TwiMp3Path = "KELEWELE.mp3"},
-                new LetterAModel { EnglishName = "Galon", Image = "galon.png", Mp3Path = "GALON.mp3", TWIName = "Galɔn", TwiMp3Path = "GAL)N.mp3"},
-                new LetterAModel { EnglishName = "Letter", Image = "letter.png", Mp3Path = "LETTER.mp3", TWIName = "Lɛtɛ", TwiMp3Path = "L3T3.mp3"},
+                new LetterAModel { EnglishName = "Football", Image = "football.jpg", Mp3Path = "FOOTBALL.mp3", TWIName = "Bɔɔlɔ", TwiMp3Path = "B))LO.mp3"},
+                new LetterAModel { EnglishName = "Soft fried plantain", Image = "friedplantain.jpg", Mp3Path = "SOFTFRIEDPLANTAIN.mp3", TWIName = "kelewele", TwiMp3Path = "KELEWELE.mp3"},
+                new LetterAModel { EnglishName = "Galon", Image = "galon.jpg", Mp3Path = "GALON.mp3", TWIName = "Galɔn", TwiMp3Path = "GAL)N.mp3"},
+                new LetterAModel { EnglishName = "Letter", Image = "letter.jpg", Mp3Path = "LETTER.mp3", TWIName = "Lɛtɛ", TwiMp3Path = "L3T3.mp3"},
                 new LetterAModel { EnglishName = "Lottery", Image = "lottery.png", Mp3Path = "LOTTERY.mp3", TWIName = "Lotto", TwiMp3Path = "LOTTO.mp3"},
                 new LetterAModel { EnglishName = "Ludo", Image = "ludo.png", Mp3Path = "LUDO.mp3", TWIName = "Ludu", TwiMp3Path = "LUDU.mp3"},
-                new LetterAModel { EnglishName = "Macaroni", Image = "macaroni.png", Mp3Path = "MARCORONI.mp3", TWIName = "Taalia", TwiMp3Path = "TALIA.mp3"},
-                new LetterAModel { EnglishName = "Police", Image = "policeman2.png", Mp3Path = "POLICE.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
-                new LetterAModel { EnglishName = "Slippers", Image = "sandals.png", Mp3Path = "SLIPPERS.mp3", TWIName = "Kyalewɔte", TwiMp3Path = "KYALEW)TE.mp3"},
+                new LetterAModel { EnglishName = "Macaroni", Image = "macaroni.jpg", Mp3Path = "MARCORONI.mp3", TWIName = "Taalia", TwiMp3Path = "TALIA.mp3"},
+                new LetterAModel { EnglishName = "Police", Image = "policeman2.jpg", Mp3Path = "POLICE.mp3", TWIName = "Polisini", TwiMp3Path = "polisini.mp3"},
+                new LetterAModel { EnglishName = "Slippers", Image = "sandals.jpg", Mp3Path = "SLIPPERS.mp3", TWIName = "Kyalewɔte", TwiMp3Path = "KYALEW)TE.mp3"},
                 new LetterAModel { EnglishName = "Skirt", Image = "skirt.png", Mp3Path = "SKIRT.mp3", TWIName = "Slit", TwiMp3Path = "SLIT.mp3"},
-                new LetterAModel { EnglishName = "Street", Image = "street.png", Mp3Path = "STREET.mp3", TWIName = "Lɔre kwan", TwiMp3Path = "L)REKWAN.mp3"},
+                new LetterAModel { EnglishName = "Street", Image = "street.jpg", Mp3Path = "STREET.mp3", TWIName = "Lɔre kwan", TwiMp3Path = "L)REKWAN.mp3"},
             };
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();

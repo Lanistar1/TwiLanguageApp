@@ -55,21 +55,21 @@ namespace TwiApp.ViewModels.T
             // Initialize your content list
             ContentList = new List<LetterAModel>
             {
-                new LetterAModel { EnglishName = "Bottle", Image = "bottle.png", Mp3Path = "BOTTLE.mp3", TWIName = "Toa", TwiMp3Path = "TOA.mp3"},
+                new LetterAModel { EnglishName = "Bottle", Image = "bottle.jpg", Mp3Path = "BOTTLE.mp3", TWIName = "Toa", TwiMp3Path = "TOA.mp3"},
                 new LetterAModel { EnglishName = "Car", Image = "car.png", Mp3Path = "CAR.mp3", TWIName = "Teaseɛnam", TwiMp3Path = "TEASE3NAM.mp3"},
-                new LetterAModel { EnglishName = "Cockroach", Image = "cockroach.png", Mp3Path = "COCKROACH.mp3", TWIName = "Tɛfrɛ", TwiMp3Path = "T3FR3.mp3"},
-                new LetterAModel { EnglishName = "Drums", Image = "drums.png", Mp3Path = "DRUMS.mp3", TWIName = "Twene", TwiMp3Path = "TWENE.mp3"},
-                new LetterAModel { EnglishName = "Feather", Image = "feather.png", Mp3Path = "FEATHER.mp3", TWIName = "Takra", TwiMp3Path = "TAKRA.mp3"},
-                new LetterAModel { EnglishName = "Jar", Image = "jar.png", Mp3Path = "JAR.mp3", TWIName = "Tumpan", TwiMp3Path = "TUMPAN.mp3"},
-                new LetterAModel { EnglishName = "Pen", Image = "pen.png", Mp3Path = "PEN.mp3", TWIName = "Twerɛdua", TwiMp3Path = "TWER3DUA.mp3"},
-                new LetterAModel { EnglishName = "Pencil", Image = "pencil.png", Mp3Path = "PENCIL.mp3", TWIName = "Twerɛdua", TwiMp3Path = "TWER3DUA.mp3"},
-                new LetterAModel { EnglishName = "Stamp", Image = "stamp.png", Mp3Path = "STAMP.mp3", TWIName = "Tim", TwiMp3Path = "TIM.mp3"},
-                new LetterAModel { EnglishName = "Tea", Image = "tea.png", Mp3Path = "TEA.mp3", TWIName = "Tii", TwiMp3Path = "TII.mp3"},
-                new LetterAModel { EnglishName = "Toffee", Image = "toffee.png", Mp3Path = "TOFFEE.mp3", TWIName = "Tɔfe", TwiMp3Path = "T)FE.mp3"},
-                new LetterAModel { EnglishName = "Toilet", Image = "toilet.png", Mp3Path = "TOILET.mp3", TWIName = "Tiafi", TwiMp3Path = "TIAFI.mp3"},
-                new LetterAModel { EnglishName = "Tongue", Image = "tongue.png", Mp3Path = "TONGUE.mp3", TWIName = "Tɛkyerɛma", TwiMp3Path = "T3KYER3MA.mp3"},
-                new LetterAModel { EnglishName = "Write", Image = "write.png", Mp3Path = "WRITE.mp3", TWIName = "Twerε", TwiMp3Path = "TWER3.mp3"},
-                new LetterAModel { EnglishName = "Writing board", Image = "writingboard.png", Mp3Path = "WRITINGBOARD.mp3", TWIName = "Twerɛpono", TwiMp3Path = "TWER3PONO.mp3"},
+                new LetterAModel { EnglishName = "Cockroach", Image = "cockroach.jpg", Mp3Path = "COCKROACH.mp3", TWIName = "Tɛfrɛ", TwiMp3Path = "T3FR3.mp3"},
+                new LetterAModel { EnglishName = "Drums", Image = "drums.jpg", Mp3Path = "DRUMS.mp3", TWIName = "Twene", TwiMp3Path = "TWENE.mp3"},
+                new LetterAModel { EnglishName = "Feather", Image = "feather.jpg", Mp3Path = "FEATHER.mp3", TWIName = "Takra", TwiMp3Path = "TAKRA.mp3"},
+                new LetterAModel { EnglishName = "Jar", Image = "jar.jpg", Mp3Path = "JAR.mp3", TWIName = "Tumpan", TwiMp3Path = "TUMPAN.mp3"},
+                new LetterAModel { EnglishName = "Pen", Image = "pen.jpg", Mp3Path = "PEN.mp3", TWIName = "Twerɛdua", TwiMp3Path = "TWER3DUA.mp3"},
+                new LetterAModel { EnglishName = "Pencil", Image = "pencil.jpg", Mp3Path = "PENCIL.mp3", TWIName = "Twerɛdua", TwiMp3Path = "TWER3DUA.mp3"},
+                new LetterAModel { EnglishName = "Stamp", Image = "stamp.jpg", Mp3Path = "STAMP.mp3", TWIName = "Tim", TwiMp3Path = "TIM.mp3"},
+                new LetterAModel { EnglishName = "Tea", Image = "tea.jpg", Mp3Path = "TEA.mp3", TWIName = "Tii", TwiMp3Path = "TII.mp3"},
+                new LetterAModel { EnglishName = "Toffee", Image = "toffee.jpg", Mp3Path = "TOFFEE.mp3", TWIName = "Tɔfe", TwiMp3Path = "T)FE.mp3"},
+                new LetterAModel { EnglishName = "Toilet", Image = "toilet.jpg", Mp3Path = "TOILET.mp3", TWIName = "Tiafi", TwiMp3Path = "TIAFI.mp3"},
+                new LetterAModel { EnglishName = "Tongue", Image = "tongue.jpg", Mp3Path = "TONGUE.mp3", TWIName = "Tɛkyerɛma", TwiMp3Path = "T3KYER3MA.mp3"},
+                new LetterAModel { EnglishName = "Write", Image = "write.gif", Mp3Path = "WRITE.mp3", TWIName = "Twerε", TwiMp3Path = "TWER3.mp3"},
+                new LetterAModel { EnglishName = "Writing board", Image = "writingboard.jpg", Mp3Path = "WRITINGBOARD.mp3", TWIName = "Twerɛpono", TwiMp3Path = "TWER3PONO.mp3"},
             };
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();

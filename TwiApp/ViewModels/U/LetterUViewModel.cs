@@ -54,20 +54,20 @@ namespace TwiApp.ViewModels.U
             // Initialize your content list
             ContentList = new List<LetterAModel>
             {
-                new LetterAModel { EnglishName = "Banana", Image = "banana.png", Mp3Path = "BANANA.mp3", TWIName = "Kwadu", TwiMp3Path = "KWADU.mp3"},
-                new LetterAModel { EnglishName = "Black", Image = "black.png", Mp3Path = "BLACK.mp3", TWIName = "Tuntum", TwiMp3Path = "TUNTUM.mp3"},
+                new LetterAModel { EnglishName = "Banana", Image = "banana.jpg", Mp3Path = "BANANA.mp3", TWIName = "Kwadu", TwiMp3Path = "KWADU.mp3"},
+                new LetterAModel { EnglishName = "Black", Image = "black.jpg", Mp3Path = "BLACK.mp3", TWIName = "Tuntum", TwiMp3Path = "TUNTUM.mp3"},
                 new LetterAModel { EnglishName = "Blow", Image = "blow.png", Mp3Path = "BLOW.mp3", TWIName = "Hu", TwiMp3Path = "HU.mp3"},
                 new LetterAModel { EnglishName = "Jump", Image = "boxJump.png", Mp3Path = "JUMP.mp3", TWIName = "Huri", TwiMp3Path = "HURI.mp3"},
-                new LetterAModel { EnglishName = "Cry", Image = "crying.png", Mp3Path = "CRY.mp3", TWIName = "Su", TwiMp3Path = "SU.mp3"},
+                new LetterAModel { EnglishName = "Cry", Image = "crying.jpg", Mp3Path = "CRY.mp3", TWIName = "Su", TwiMp3Path = "SU.mp3"},
                 new LetterAModel { EnglishName = "Fear", Image = "fear.png", Mp3Path = "FEAR.mp3", TWIName = "Suro", TwiMp3Path = "SURO.mp3"},
-                new LetterAModel { EnglishName = "Fly", Image = "fly.png", Mp3Path = "FLY.mp3", TWIName = "Tu", TwiMp3Path = "TU.mp3"},
+                new LetterAModel { EnglishName = "Fly", Image = "fly.gif", Mp3Path = "FLY.mp3", TWIName = "Tu", TwiMp3Path = "TU.mp3"},
                 new LetterAModel { EnglishName = "Food", Image = "food.png", Mp3Path = "FOOD.mp3", TWIName = "Aduane", TwiMp3Path = "ADUANE.mp3"},
-                new LetterAModel { EnglishName = "Hold", Image = "hold.png", Mp3Path = "HOLD.mp3", TWIName = "sᴐ mu", TwiMp3Path = "S)MU.mp3"},
-                new LetterAModel { EnglishName = "Measure", Image = "measure.png", Mp3Path = "measureenglish.mp3", TWIName = "Susu", TwiMp3Path = "MEASURE.mp3"},
-                new LetterAModel { EnglishName = "Rat", Image = "rat.png", Mp3Path = "RAT.mp3", TWIName = "Akura", TwiMp3Path = "AKURA.mp3"},
-                new LetterAModel { EnglishName = "Rice balls", Image = "riceballs.png", Mp3Path = "RICEBALL.mp3", TWIName = "Emotuo", TwiMp3Path = "3MOTUO.mp3"},
-                new LetterAModel { EnglishName = "Shout", Image = "shout.png", Mp3Path = "SHOUT.mp3", TWIName = "Tea mu", TwiMp3Path = "TEAMU.mp3"},
-                new LetterAModel { EnglishName = "Sibling", Image = "sibling.png", Mp3Path = "SIBLING.mp3", TWIName = "Nua", TwiMp3Path = "NUA.mp3"},
+                new LetterAModel { EnglishName = "Hold", Image = "hold.jpg", Mp3Path = "HOLD.mp3", TWIName = "sᴐ mu", TwiMp3Path = "S)MU.mp3"},
+                new LetterAModel { EnglishName = "Measure", Image = "measure.jpg", Mp3Path = "measureenglish.mp3", TWIName = "Susu", TwiMp3Path = "MEASURE.mp3"},
+                new LetterAModel { EnglishName = "Rat", Image = "rat.jpg", Mp3Path = "RAT.mp3", TWIName = "Akura", TwiMp3Path = "AKURA.mp3"},
+                new LetterAModel { EnglishName = "Rice balls", Image = "riceballs.jpg", Mp3Path = "RICEBALL.mp3", TWIName = "Emotuo", TwiMp3Path = "3MOTUO.mp3"},
+                new LetterAModel { EnglishName = "Shout", Image = "shout.jpg", Mp3Path = "SHOUT.mp3", TWIName = "Tea mu", TwiMp3Path = "TEAMU.mp3"},
+                new LetterAModel { EnglishName = "Sibling", Image = "sibling.jpg", Mp3Path = "SIBLING.mp3", TWIName = "Nua", TwiMp3Path = "NUA.mp3"},
                 new LetterAModel { EnglishName = "Water", Image = "water.png", Mp3Path = "WATER.mp3", TWIName = "Nsuo", TwiMp3Path = "NSUO.mp3"},
             };
             currentIndex = 0;
