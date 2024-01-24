@@ -57,9 +57,9 @@ namespace TwiApp.ViewModels.Y
             {
                 new LetterAModel { EnglishName = "Stomach", Image = "belly.jpg", Mp3Path = "STOMACH.mp3", TWIName = "Yafunu", TwiMp3Path = "YAFUNU.mp3"},
                 new LetterAModel { EnglishName = "Blade", Image = "blade.jpg", Mp3Path = "BLADE.mp3", TWIName = "Yiwan", TwiMp3Path = "YIWAN.mp3"},
-                new LetterAModel { EnglishName = "Boat", Image = "boat.jpg", Mp3Path = "BOAT.mp3", TWIName = "Yiri", TwiMp3Path = ""},
+                new LetterAModel { EnglishName = "Boat", Image = "boat.jpg", Mp3Path = "BOAT.mp3", TWIName = "Yiri", TwiMp3Path = "NEWYIRI.mp3"},
                 new LetterAModel { EnglishName = "Camel", Image = "camel.jpg", Mp3Path = "CAMEL.mp3", TWIName = "Yoma", TwiMp3Path = "YOMA.mp3"},
-                new LetterAModel { EnglishName = "Go fishing", Image = "fish3.jpg", Mp3Path = "FISH.mp3", TWIName = "Yi mpataa", TwiMp3Path = "YIMPATAA.mp3"},
+                new LetterAModel { EnglishName = "Go fishing", Image = "fish3.jpg", Mp3Path = "NEWGOFISHING.mp3", TWIName = "Yi mpataa", TwiMp3Path = "YIMPATAA.mp3"},
                 new LetterAModel { EnglishName = "Friendship", Image = "friend.gif", Mp3Path = "FRIENDSHIP.mp3", TWIName = "Yɔnkoɔ", TwiMp3Path = "Y)NKO).mp3"},
                 new LetterAModel { EnglishName = "Haircut", Image = "haircut.png", Mp3Path = "HAIRCUT.mp3", TWIName = "Yi tirinwi", TwiMp3Path = "YITIRINWI.mp3"},
                 new LetterAModel { EnglishName = "Hairdye", Image = "hairdye.png", Mp3Path = "HAIRDYE.mp3", TWIName = "Yomo", TwiMp3Path = "YOMO.mp3"},

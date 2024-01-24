@@ -1403,7 +1403,9 @@
   <ItemGroup>
     <BundleResource Include="Resources\avocadopear.jpg" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEWHORNS.mp3" />
+  </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Audio\Y3NT3M.mp3" />
   </ItemGroup>
@@ -3440,5 +3442,17 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Audio\Y3N.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEWYIRI.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEWMPOMA.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\NEWGOFISHING.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\INTERACTIVE.png" />
   </ItemGroup>
 </Project>

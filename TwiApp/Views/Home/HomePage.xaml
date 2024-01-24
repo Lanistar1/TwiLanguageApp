@@ -106,7 +106,7 @@
                         <ImageButton BackgroundColor="Transparent" Clicked="To_letterW" Source="W.png" Grid.Column="0" HeightRequest="60" WidthRequest="60"/>
                         <ImageButton BackgroundColor="Transparent" Clicked="To_letterY" Source="Y.png" Grid.Column="1" HeightRequest="60" WidthRequest="60"/>
                         <ImageButton BackgroundColor="Transparent" Clicked="To_morepage" Source="MORE.png" Grid.Column="2" HeightRequest="60" WidthRequest="60"/>
-                        <Image Source="" Grid.Column="3" HeightRequest="60" WidthRequest="60"/>
+                        <ImageButton BackgroundColor="Transparent" Clicked="To_Incentive" Source="INTERACTIVE.png" Grid.Column="3" HeightRequest="60" WidthRequest="60"/>
                     </Grid>
                 </Grid>
             </StackLayout>

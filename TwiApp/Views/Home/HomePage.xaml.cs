@@ -5,6 +5,7 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
+using TwiApp.Popups;
 using TwiApp.Views.Alphabet;
 using TwiApp.Views.Alphabet.B;
 using TwiApp.Views.Alphabet.C;
@@ -53,7 +54,11 @@ namespace TwiApp.Views.Home
 
         private async void To_morepage(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new MorePage());
+            //await MessagePopup.Instance.Show("Feature coming soon.");
+
+            await Application.Current.MainPage.DisplayAlert("Feature coming soon", "", "OK");
+
+            //await Navigation.PushAsync(new MorePage());
         }
 
         private async void To_letterA(object sender, EventArgs e)
@@ -538,6 +543,15 @@ namespace TwiApp.Views.Home
 
             await Task.Delay(500);
             await Navigation.PushAsync(new LetterE2());
+        }
+
+        private async void To_Incentive(object sender, EventArgs e)
+        {
+            await MessagePopup.Instance.Show("Feature coming soon.");
+
+            await Application.Current.MainPage.DisplayAlert("Feature coming soon", "", "OK");
+
+
         }
     }
 }
