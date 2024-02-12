@@ -14,6 +14,7 @@ namespace TwiApp.ViewModels.A
     public class LetterAViewModel : INotifyPropertyChanged
     {
         private static LetterAViewModel instance;
+
         public static LetterAViewModel Instance
         {
             get
