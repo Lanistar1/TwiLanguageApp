@@ -4,6 +4,27 @@
              x:Class="TwiApp.Views.testwebview">
 
     <StackLayout>
-        
+        <CollectionView x:Name="cvBanners" ItemsSource="{Binding ContentList}" Margin="20,20" Grid.Row="1">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout VerticalItemSpacing="10" HorizontalItemSpacing="10" Orientation="Vertical" Span="3"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="10" CornerRadius="10" HasShadow="False" BackgroundColor="#EFF1F8">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Path=BindingContext.TappedCommand, Source={x:Reference cvBanners}}" CommandParameter="{Binding .}"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout >
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding Path=BindingContext.TappedCommand, Source={x:Reference cvBanners}}" CommandParameter="{Binding .}"/>
+                            </StackLayout.GestureRecognizers>
+                            <Image Source="{Binding Image}" WidthRequest="100" HeightRequest="100" HorizontalOptions="StartAndExpand"/>
+                            <Label Text="{Binding Name}" TextColor="#272728" FontSize="14" Margin="0,0,0,0" FontFamily="DMSans-Regular" HorizontalTextAlignment="Center"/>
+
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </StackLayout>
 </ContentPage>
