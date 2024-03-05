@@ -19,14 +19,14 @@ namespace TwiApp.Views.Home
 
         private async void To_Visit(object sender, EventArgs e)
         {
-            string url = "www.Ankobra.com";
+            string url = "https://www.ankobra.com/";
 
             await Navigation.PushAsync(new WebviewPage(url));
         }
 
         private async void To_Getintouch(object sender, EventArgs e)
         {
-            string url = "info@ankobra.com";
+            string url = "https://info@ankobra.com";
 
             await Navigation.PushAsync(new WebviewPage(url));
         }
