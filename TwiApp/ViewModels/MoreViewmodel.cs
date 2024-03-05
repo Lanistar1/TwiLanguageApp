@@ -114,8 +114,6 @@ namespace TwiApp.ViewModels
                 {
                     await Navigation.PushAsync(new PronounPage());
                 }
-
-
             }
             catch (Exception ex)
             {
