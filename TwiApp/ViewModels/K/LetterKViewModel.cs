@@ -67,7 +67,7 @@ namespace TwiApp.ViewModels.K
                 new LetterAModel { EnglishName = "Light bulb", Image = "lightbulb.jpg", Mp3Path = "LIGHTBULB.mp3", TWIName = "Kanea", TwiMp3Path = "KANEA.mp3"},
                 new LetterAModel { EnglishName = "Porcupine", Image = "porcupine.jpg", Mp3Path = "POCUPINE.mp3", TWIName = "kɔtɔkɔ", TwiMp3Path = "K)T)K).mp3"},
                 new LetterAModel { EnglishName = "Ring", Image = "ring.jpg", Mp3Path = "RING.mp3", TWIName = "Kawa", TwiMp3Path = "KAWA.mp3"},
-                new LetterAModel { EnglishName = "Television", Image = "television.jpg", Mp3Path = "TELEVISION.mp3", TWIName = "kasamfoni", TwiMp3Path = "KASAMFONI.mp3"},
+                new LetterAModel { EnglishName = "Television", Image = "television.jpg", Mp3Path = "TELEVISION.mp3", TWIName = "Kasamfoni", TwiMp3Path = "KASAMFONI.mp3"},
                 new LetterAModel { EnglishName = "Umbrella", Image = "umbrella.jpg", Mp3Path = "UMBRELLA.mp3", TWIName = "Kyiniiɛ", TwiMp3Path = "KYINII3.mp3"},
                 new LetterAModel { EnglishName = "Wasp", Image = "wasp.jpg", Mp3Path = "WASP.mp3", TWIName = "Kotokurodu", TwiMp3Path = "KOTOKURODU.mp3"},
             };

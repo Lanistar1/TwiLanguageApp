@@ -58,7 +58,7 @@ namespace TwiApp.ViewModels.D
                 new LetterAModel { EnglishName = "Bone", Image = "Bone.png", Mp3Path = "BONE.mp3", TWIName = "Dompe", TwiMp3Path = "DOMPE.mp3"},
                 new LetterAModel { EnglishName = "Cauldron", Image = "cauldron.jpg", Mp3Path = "CAULDRON.mp3", TWIName = "Dadesɛn", TwiMp3Path = "DADESEN.mp3" },
                 new LetterAModel { EnglishName = "Crocodile", Image = "crocodile.png", Mp3Path = "CROCODILE.mp3", TWIName = "Dɛnkyɛm", TwiMp3Path = "D3NKY3M.mp3"},
-                new LetterAModel { EnglishName = "Doctor", Image = "handleme.jpg", Mp3Path = "DOCTOR.mp3", TWIName = "ᴐyaresafoᴐ/dᴐkota", TwiMp3Path = "DOKOTA.mp3"},
+                new LetterAModel { EnglishName = "Doctor", Image = "handleme.gif", Mp3Path = "DOCTOR.mp3", TWIName = "ᴐyaresafoᴐ/dᴐkota", TwiMp3Path = "DOKOTA.mp3"},
                 new LetterAModel { EnglishName = "Dining table", Image = "diningtable.jpg", Mp3Path = "DININGTABLE.mp3", TWIName = "Didi pono", TwiMp3Path = "DIDIPONO.mp3"},
                 new LetterAModel { EnglishName = "Duck", Image = "duck.jpg", Mp3Path = "DUCK.mp3", TWIName = "Dabodabo", TwiMp3Path = "DABODABO.mp3"},
                 new LetterAModel { EnglishName = "Eat", Image = "eat.png", Mp3Path = "EAT.mp3", TWIName = "Didi", TwiMp3Path = "DIDI.mp3"},

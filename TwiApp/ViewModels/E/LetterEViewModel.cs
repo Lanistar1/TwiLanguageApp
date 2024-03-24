@@ -62,7 +62,7 @@ namespace TwiApp.ViewModels.E
                 new LetterAModel { EnglishName = "Five", Image = "five.png", Mp3Path = "FIVE.mp3", TWIName = "Enum", TwiMp3Path = "ENUM.mp3"},
                 new LetterAModel { EnglishName = "Forge", Image = "forge.jpg", Mp3Path = "FORGE.mp3", TWIName = "Ebura", TwiMp3Path = "EBURA.mp3"},
                 new LetterAModel { EnglishName = "Gun", Image = "gun.jpg", Mp3Path = "GUN.mp3", TWIName = "Etuo", TwiMp3Path = "ETUO.mp3"},
-                new LetterAModel { EnglishName = "Head", Image = "head.png", Mp3Path = "HEAD.mp3", TWIName = "Etire", TwiMp3Path = "ETIRE.mp3"},
+                new LetterAModel { EnglishName = "Head", Image = "head.jpg", Mp3Path = "HEAD.mp3", TWIName = "Etire", TwiMp3Path = "ETIRE.mp3"},
                 new LetterAModel { EnglishName = "Home work", Image = "homework.JPG", Mp3Path = "HOMEWORK.mp3", TWIName = "Efie dwumadie", TwiMp3Path = "EFIEDWUMADIE.mp3"},
                 new LetterAModel { EnglishName = "House", Image = "house.png", Mp3Path = "HOUSE.mp3", TWIName = "Efie", TwiMp3Path = "EFIE.mp3"},
                 new LetterAModel { EnglishName = "Louse", Image = "lice.jpg", Mp3Path = "LOUSE.mp3", TWIName = "Edwie", TwiMp3Path = "EDWIE.mp3"},

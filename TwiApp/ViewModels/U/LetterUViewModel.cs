@@ -67,7 +67,7 @@ namespace TwiApp.ViewModels.U
                 new LetterAModel { EnglishName = "Rat", Image = "rat.jpg", Mp3Path = "RAT.mp3", TWIName = "Akura", TwiMp3Path = "AKURA.mp3"},
                 new LetterAModel { EnglishName = "Rice balls", Image = "riceballs.jpg", Mp3Path = "RICEBALL.mp3", TWIName = "Emotuo", TwiMp3Path = "3MOTUO.mp3"},
                 new LetterAModel { EnglishName = "Shout", Image = "shout.jpg", Mp3Path = "SHOUT.mp3", TWIName = "Tea mu", TwiMp3Path = "TEAMU.mp3"},
-                new LetterAModel { EnglishName = "Sibling", Image = "sibling.jpg", Mp3Path = "SIBLING.mp3", TWIName = "Nua", TwiMp3Path = "NUA.mp3"},
+                new LetterAModel { EnglishName = "Sibling", Image = "Sibling.jpg", Mp3Path = "SIBLING.mp3", TWIName = "Nua", TwiMp3Path = "NUA.mp3"},
                 new LetterAModel { EnglishName = "Water", Image = "water.png", Mp3Path = "WATER.mp3", TWIName = "Nsuo", TwiMp3Path = "NSUO.mp3"},
             };
             currentIndex = 0;

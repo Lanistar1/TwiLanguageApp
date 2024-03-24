@@ -63,7 +63,7 @@ namespace TwiApp.ViewModels.O
                 new LetterAModel { EnglishName = "Dishonest person", Image = "dishonest.jpg", Mp3Path = "DISHONESTPERSON.mp3", TWIName = "Okotomponi", TwiMp3Path = "OKOTONPONI.mp3"},
                 new LetterAModel { EnglishName = "Fireman", Image = "fireman.gif", Mp3Path = "FIREMAN.mp3", TWIName = "Odumgya", TwiMp3Path = "ODUMGYA.mp3"},
                 new LetterAModel { EnglishName = "Gentleman", Image = "gentleman.png", Mp3Path = "GENTLEMAN.mp3", TWIName = "Owura", TwiMp3Path = "OWURA.mp3"},
-                new LetterAModel { EnglishName = "Pharmacist", Image = "pharmacist.png", Mp3Path = "PHARMACIST.mp3", TWIName = "Oduyɛfo)", TwiMp3Path = "ODUY3FO).mp3"},
+                new LetterAModel { EnglishName = "Pharmacist", Image = "pharmacist.png", Mp3Path = "PHARMACIST.mp3", TWIName = "Oduyɛfoɔ", TwiMp3Path = "ODUY3FO).mp3"},
                 new LetterAModel { EnglishName = "Professor", Image = "professor.PNG", Mp3Path = "PROFESSOR.mp3", TWIName = "Okunini", TwiMp3Path = "OKUNINI.mp3"},
                 new LetterAModel { EnglishName = "Rain", Image = "rain.jpg", Mp3Path = "RAIN.mp3", TWIName = "Osuo", TwiMp3Path = "OSUO.mp3"},
                 new LetterAModel { EnglishName = "Scarecrow", Image = "scarecrow.jpg", Mp3Path = "SCARECROW.mp3", TWIName = "Oberekutu", TwiMp3Path = "OBREKUTU.mp3"},

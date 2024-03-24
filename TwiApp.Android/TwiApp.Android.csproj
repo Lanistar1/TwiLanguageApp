@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v12.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -114,7 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TwiApp\TwiApp.csproj">
-      <Project>{321BBCEC-032D-4A86-8637-6A3330B488CF}</Project>
+      <Project>{1337F8B7-780E-46B1-8CFC-3D61703FF689}</Project>
       <Name>TwiApp</Name>
     </ProjectReference>
   </ItemGroup>

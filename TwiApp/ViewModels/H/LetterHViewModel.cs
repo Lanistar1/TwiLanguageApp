@@ -68,7 +68,7 @@ namespace TwiApp.ViewModels.H
                 new LetterAModel { EnglishName = "Smell", Image = "smell.jpg", Mp3Path = "SMELL.mp3", TWIName = "Hwia", TwiMp3Path = "HWIA.mp3"},
                 new LetterAModel { EnglishName = "Start", Image = "start.jpg", Mp3Path = "START.mp3", TWIName = "Hyɛ aseɛ", TwiMp3Path = "HY3ASE3.mp3"},
                 new LetterAModel { EnglishName = "Wobble", Image = "wobble.jpg", Mp3Path = "WOBBLE.mp3", TWIName = "Hinhim", TwiMp3Path = "HINHIM.mp3"},
-                new LetterAModel { EnglishName = "Yawn", Image = "yawning.jpgx", Mp3Path = "YAWN.mp3", TWIName = "Hram", TwiMp3Path = "HRAM.mp3"},
+                new LetterAModel { EnglishName = "Yawn", Image = "yawning.jpg", Mp3Path = "YAWN.mp3", TWIName = "Hram", TwiMp3Path = "HRAM.mp3"},
             };
             currentIndex = 0;
             SelectedContent = ContentList.FirstOrDefault();
